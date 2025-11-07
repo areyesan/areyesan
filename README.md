@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @areyesan
-- 👀 I’m interested in Deep Learning, Computer Vision and Music
-- 🌱 I’m currently learning Biomedical Image segmentantion using deep learning
-- 💞️ I’m looking to collaborate on research project related to artificial intelligence in the medical field and/or virtual reality
+- 👀 I’m interested in Deep Learning, Computer Vision, and Music
+- 🌱 I’m currently learning Biomedical Image segmentation using deep learning
+- I’m looking to collaborate on research project related to artificial intelligence in the medical field and/or virtual reality
 - 📫 How to reach me: areyesan@mtu.edu
 
 <!---
